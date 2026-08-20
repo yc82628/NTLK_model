@@ -1,0 +1,6 @@
+flag,description,n_reviews,pct_of_corpus,available
+flag_copypasta,Duplicated text across multiple games (likely meme),58,0.12,True
+flag_coordinated_duplicate,Duplicated text on a single game,3,0.01,True
+flag_free_copy,Review copy received free,1814,3.63,True
+flag_near_zero_playtime,Long review at near-zero playtime,268,0.54,True
+flag_joke_review,Voted mostly 'funny' rather than 'helpful',402,0.8,True

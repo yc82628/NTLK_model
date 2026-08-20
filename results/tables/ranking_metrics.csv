@@ -1,0 +1,3 @@
+model,roc_auc,average_precision
+VADER (compound score),0.7896731697571612,0.9297478511576573
+DistilBERT (P of recommended),0.9717410419725889,0.9936948829449331
